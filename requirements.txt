@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+openai
+pinecone-client
+pdfplumber
+python-dotenv
+pydantic
+langchain_openai
+langchain-huggingface
+sentence-transformers
